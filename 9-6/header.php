@@ -1,7 +1,7 @@
 <!Doctype html>
 <html lang="en">
 	<head>
-		<title>Internal CSS</title>
+		<title>Gaurav CSS</title>
 		<meta charset="utf-8"/>
 		<link href="style.css" rel="stylesheet"/>
 		
