@@ -1,0 +1,24 @@
+*{
+margin:0px;padding:0px;
+}#header{
+				width:800px;
+				height:100px;
+				background-color:red;
+			}
+			.mainbox{
+				width:800px; height:600px; background-color:yellow;
+			}
+			.footer{
+				width:800px; height:100px; background-color:orange;
+			}
+			.leftmain{
+				width:200px; height:600px;
+				float:left;
+			}
+			.rightmain{
+				width:600px; height:600px; 
+				float:right;
+			}
+			.mypic{
+				width:400px;
+			}
