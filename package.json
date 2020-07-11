@@ -53,7 +53,7 @@
         "intro.js": "^2.5.0",
         "jwt-simple": "^0.5.1",
         "mathjax": "^2.7.0",
-        "mongoose": "^4.13.14",
+        "mongoose": "^5.7.5",
         "morgan": "^1.9.1",
         "multer": "^1.2.0",
         "mv": "^2.1.1",
